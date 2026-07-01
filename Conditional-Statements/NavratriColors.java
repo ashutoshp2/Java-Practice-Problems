@@ -37,6 +37,7 @@ public class NavratriColors {
                 break;
             default:
                 System.out.println("Invalid Day");
+                sc.close();
 
         }
     }
