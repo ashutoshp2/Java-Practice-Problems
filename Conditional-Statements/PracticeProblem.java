@@ -15,11 +15,11 @@ public class PracticeProblem {
                 String bikeDriver = sc.next();
 
                 if (bikeDriver.equals("A")) {
-                    System.out.println("Bike Driver is A");
+                    System.out.println("Bike Driver: A");
                     System.out.println("Petrol wii be paid by B");
 
                 } else if (bikeDriver.equals("B")) {
-                    System.out.println("Bike Driver is B");
+                    System.out.println("Bike Driver: B");
                     System.out.println("Petrol will be paid 50-50");
 
                 } else {
