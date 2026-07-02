@@ -15,7 +15,7 @@ public class Average_Array {
     }
 }
 
-class A{
+class ArrayCalc{
     public static void main(String[] args) {
         Average_Array aa = new Average_Array();
         aa.Average();
